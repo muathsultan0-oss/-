@@ -1,0 +1,175 @@
+[
+  {
+    "guildId": "1434970839832465551",
+    "roleId": "1434972654158352524",
+    "amount": 100,
+    "intervalMs": 60000,
+    "enabled": false
+  },
+  {
+    "guildId": "1435361006913327246",
+    "roleId": "1435670458065227926",
+    "amount": 100,
+    "intervalMs": 60000,
+    "enabled": false
+  },
+  {
+    "guildId": "1435361006913327246",
+    "roleId": "1435670458065227926",
+    "amount": 100,
+    "intervalMs": 60000,
+    "enabled": false
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1435947031440134154",
+    "amount": 1000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1435947031440134154",
+    "amount": 10000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441109285265342594",
+    "amount": 1000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441109346216841468",
+    "amount": 2000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441109583299870730",
+    "amount": 3000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441109638887248063",
+    "amount": 4000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441109821741858986",
+    "amount": 5000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441109878293794936",
+    "amount": 6000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441109997189595428",
+    "amount": 7000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110060431446166",
+    "amount": 8000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110189402226759",
+    "amount": 9000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441109768247709773",
+    "amount": 4500,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110273800016015",
+    "amount": 10000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110414116257883",
+    "amount": 11000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110472265826354",
+    "amount": 12000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110529039929455",
+    "amount": 13000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110590180425810",
+    "amount": 14000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110666407710844",
+    "amount": 15000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  },
+  {
+    "guildId": "1435672600645734463",
+    "roleId": "1441110322974036071",
+    "amount": 10000,
+    "intervalMs": 7200000,
+    "enabled": true,
+    "lastRun": 1763715039858
+  }
+]
